@@ -1,16 +1,12 @@
 # servemandu_sp_app
 
-A new Flutter project.
+#output
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Dipesh2056/serviceprovider-app-flutter/assets/59479709/68022afd-5332-49c0-bba9-1187054d3757)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Dipesh2056/serviceprovider-app-flutter/assets/59479709/8eac8df0-f788-4e18-b5e0-e61f71c70cf2)
+![image](https://github.com/Dipesh2056/serviceprovider-app-flutter/assets/59479709/81c49b47-c919-4ebe-8609-c00ff36ef068)
+![image](https://github.com/Dipesh2056/serviceprovider-app-flutter/assets/59479709/14015b0d-e8a1-41bc-87b9-128758c0bec6)
+![image](https://github.com/Dipesh2056/serviceprovider-app-flutter/assets/59479709/ae7d2d39-c697-4f18-a244-6509dc9fa1da)
+![image](https://github.com/Dipesh2056/serviceprovider-app-flutter/assets/59479709/fe3009f4-8056-4aef-a02b-ecb83ffe2a3c)
